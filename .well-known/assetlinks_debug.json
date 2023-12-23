@@ -1,1 +1,23 @@
-
+[
+  {
+     "relation" : [
+       "delegate_permission/common.handle_all_urls",
+       "delegate_permission/common.get_login_creds"
+     ],
+     "target" : {
+       "namespace" : "web",
+       "site" : "https://YASSIN999-HOUIZI.github.io"
+     }
+   },
+  {
+     "relation": [
+       "delegate_permission/common.handle_all_urls",
+       "delegate_permission/common.get_login_creds"
+     ],
+     "target": {
+       "namespace": "android_app",
+       "package_name": "com.lendafriend",
+       "sha256_cert_fingerprints": ["25:1E:FF:81:77:5B:A8:DC:BD:77:B4:65:63:29:EB:2A:E2:F7:20:C7:AE:36:39:3F:DB:94:9A:FE:A5:ED:D9:8F"]
+     }
+   }
+ ]
