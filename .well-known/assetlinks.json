@@ -17,7 +17,7 @@
      "target": {
        "namespace": "android_app",
        "package_name": "com.lendafriend",
-       "sha256_cert_fingerprints": ["25:1E:FF:81:77:5B:A8:DC:BD:77:B4:65:63:29:EB:2A:E2:F7:20:C7:AE:36:39:3F:DB:94:9A:FE:A5:ED:D9:8F"]
+       "sha256_cert_fingerprints": ["FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"]
      }
    }
  ]
