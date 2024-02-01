@@ -1,0 +1,39 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "LKQWMG6BWA.id.passage.example-ios",
+        "paths": [
+          "*"
+        ]
+      },
+      {
+        "appID": "LKQWMG6BWA.id.passage.example-flutter",
+        "paths": [
+          "*"
+        ]
+      },
+      {
+        "appID": "LKQWMG6BWA.id.passage.example-reactnative",
+        "paths": [
+          "*"
+        ]
+      },
+      {
+        "appID": "LKQWMG6BWA.id.passage.uat-test-app",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "LKQWMG6BWA.id.passage.example-ios",
+      "LKQWMG6BWA.id.passage.example-flutter",
+      "LKQWMG6BWA.id.passage.example-reactnative",
+      "LKQWMG6BWA.id.passage.uat-test-app"
+    ]
+  }
+}
