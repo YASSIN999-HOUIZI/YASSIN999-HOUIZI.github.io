@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "com.lendafriend",
+        "appID": "VBC7XS693A.com.lendafriend",
         "paths": [
           "*"
         ]
@@ -11,7 +11,7 @@
 },
   "webcredentials": {
     "apps": [
-      "com.lendafriend",
+      "VBC7XS693A.com.lendafriend",
     ]
   }
 }
